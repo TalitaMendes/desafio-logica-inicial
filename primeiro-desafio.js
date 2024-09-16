@@ -25,4 +25,4 @@ if (xpHeroi < 1000) {
 }
 
 // Saída da mensagem
-console.log("O Herói de nome " + nomeHeroi + "está no nível de " nivelHeroi);
+console.log("O Herói de nome " + nomeHeroi + " está no nível de " nivelHeroi);
